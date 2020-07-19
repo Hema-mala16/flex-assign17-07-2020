@@ -1,0 +1,50 @@
+#holygrail{
+    background-color:#772953  ;
+    background-image: linear-gradient(#e95420,#772953   );
+}
+#header{
+    height: 30px;
+    width: 62px;
+    border-style: solid;
+    border-color: whitesmoke;
+    
+    background-color: #e95420  ;
+    color: cornsilk;    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    
+
+}
+#main{
+    margin:20px 30px;
+    border-style: solid;
+    border-color: thistle;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: ivory;
+    
+}
+#content{
+    margin: 10px 20px;
+    border-style: solid;
+    border-color:thistle;
+    text-shadow: 0.2em;
+}
+#secondary{
+    margin: 10px 20px;
+    border-style: solid;
+    border-color: thistle;
+}
+#tertiary{
+    
+    margin: 10px 20px;
+    border-style: solid;border-color: thistle;
+
+}
+#footer{
+    height: 40px;
+    width: 50px;
+    margin: 20px;
+    text-align: center;
+    border-style: solid;border-color: thistle;
+    color:#fff;
+}
