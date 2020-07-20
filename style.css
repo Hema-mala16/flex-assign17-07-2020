@@ -61,7 +61,7 @@ background: blue;
    width: 75px; 
 
    height: 75px; 
-   transform: skew(2,3);
+  
 
 } 
 
@@ -70,7 +70,7 @@ background: blue;
 #scale .square div:hover { 
 
  
-
+ transform: skew(2,3);
 } 
 
  
