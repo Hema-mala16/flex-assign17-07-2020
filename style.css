@@ -102,7 +102,7 @@ background: blue;
 #translate .square { 
 
   background-color: orange; 
-  transform:translate(10px,25px);
+ 
 
  
 
@@ -111,7 +111,8 @@ background: blue;
  
 
 #translate .square:hover {  
-  transform: translate(60px,70px);
+  transform: translate(900px,10px);
+ ol {list-style-type: lower-alpha;}
 
  
 
